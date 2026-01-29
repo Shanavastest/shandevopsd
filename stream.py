@@ -1,7 +1,8 @@
 import streamlit as st
 a = 10
 b = 20
-result = a + b
+c = 35
+result = a + b +c
 # Streamlit app
 st.title("Addition App")
 st.text("Welcome")
